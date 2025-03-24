@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hi 👋! My name is Mahas a.k.a and I'm a Musician, AI Engineer, Full Stack Developer and Content creator from India.</h1>
+<h1 align="left">Hi 👋! My name is Mahas a.k.a Mahaswi and I'm a Musician, AI Engineer, Full Stack Developer and Content creator from India.</h1>
 
 ###
 
